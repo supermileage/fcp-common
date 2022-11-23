@@ -1,4 +1,4 @@
-
+/* Telemetry Macros */
 #define FC_BAUD 9600
 
 #define NUM_CELLS 17
